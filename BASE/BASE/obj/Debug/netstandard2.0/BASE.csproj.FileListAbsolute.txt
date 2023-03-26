@@ -1,0 +1,31 @@
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\bin\Debug\netstandard2.0\BASE.deps.json
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\bin\Debug\netstandard2.0\BASE.dll
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\bin\Debug\netstandard2.0\BASE.pdb
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.csproj.AssemblyReference.cache
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.AssemblyInfoInputs.cache
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.AssemblyInfo.cs
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.dll
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\refint\BASE.dll
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\BASE.pdb
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE\BASE\BASE\obj\Debug\netstandard2.0\ref\BASE.dll
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\BASE.csproj.AssemblyReference.cache
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\BASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\BASE.AssemblyInfoInputs.cache
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\BASE.AssemblyInfo.cs
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\BASE.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\BASE.dll
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\refint\BASE.dll
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\BASE.pdb
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\bin\Debug\netstandard2.0\BASE.deps.json
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\bin\Debug\netstandard2.0\BASE.dll
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\bin\Debug\netstandard2.0\BASE.pdb
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\ref\BASE.dll
+C:\Users\Antonio Alvarez\OneDrive\Escritorio\BASE - copia\BASE\BASE\obj\Debug\netstandard2.0\Edit.xaml.g.cs
