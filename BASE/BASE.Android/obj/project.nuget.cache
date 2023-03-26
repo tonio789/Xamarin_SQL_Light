@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DLg7WZbGGD4ASoUEkAKxhzc1A5lm0p/6iZTgrcuyXj6DIl4WZM+4/TlSw+4UIc6c0G08jOBzFPDqphkWB5tbQg==",
+  "dgSpecHash": "WEdQBr3VPvdMY7lkLou96n/4UZU+LxCvCEP3WE5hZs2yJHMe3V92hsRjIT/jHRBVz+5QThq+wyY4Q5Ucz6aXmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Escritorio\\BASE - copia\\BASE\\BASE.Android\\BASE.Android.csproj",
+  "projectFilePath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Xamarin_SQL_Light\\BASE\\BASE.Android\\BASE.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",

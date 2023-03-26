@@ -871,11 +871,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antonio Alvarez\\OneDrive\\Escritorio\\BASE - copia\\BASE\\BASE\\BASE.csproj",
+      "projectUniqueName": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Xamarin_SQL_Light\\BASE\\BASE\\BASE.csproj",
       "projectName": "BASE",
-      "projectPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Escritorio\\BASE - copia\\BASE\\BASE\\BASE.csproj",
+      "projectPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Xamarin_SQL_Light\\BASE\\BASE\\BASE.csproj",
       "packagesPath": "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Escritorio\\BASE - copia\\BASE\\BASE\\obj\\",
+      "outputPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Xamarin_SQL_Light\\BASE\\BASE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a/czzKyNUc06+C6M6ftcjZAm/vSS0DG7/vjpzxJxHlzxex6bs7BzqHQKUWibO2QEKWVUaIuP2DFm0r9Fmwljzw==",
+  "dgSpecHash": "T8M8nNsi9x6CXXMME2Pw/WYph8SMCtXnlyp4nS9vJpS8Lis4QqM30x0o1jn5NyKPdkValbd2x/1Q13lXQUakKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Escritorio\\BASE - copia\\BASE\\BASE\\BASE.csproj",
+  "projectFilePath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Xamarin_SQL_Light\\BASE\\BASE\\BASE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

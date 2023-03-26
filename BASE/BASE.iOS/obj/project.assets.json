@@ -1592,11 +1592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antonio Alvarez\\OneDrive\\Escritorio\\BASE - copia\\BASE\\BASE.iOS\\BASE.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Xamarin_SQL_Light\\BASE\\BASE.iOS\\BASE.iOS.csproj",
       "projectName": "BASE.iOS",
-      "projectPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Escritorio\\BASE - copia\\BASE\\BASE.iOS\\BASE.iOS.csproj",
+      "projectPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Xamarin_SQL_Light\\BASE\\BASE.iOS\\BASE.iOS.csproj",
       "packagesPath": "C:\\Users\\Antonio Alvarez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Escritorio\\BASE - copia\\BASE\\BASE.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Xamarin_SQL_Light\\BASE\\BASE.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1617,8 +1617,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Antonio Alvarez\\OneDrive\\Escritorio\\BASE - copia\\BASE\\BASE\\BASE.csproj": {
-              "projectPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Escritorio\\BASE - copia\\BASE\\BASE\\BASE.csproj"
+            "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Xamarin_SQL_Light\\BASE\\BASE\\BASE.csproj": {
+              "projectPath": "C:\\Users\\Antonio Alvarez\\OneDrive\\Documentos\\GitHub\\Xamarin_SQL_Light\\BASE\\BASE\\BASE.csproj"
             }
           }
         }

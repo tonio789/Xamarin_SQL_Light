@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using BASE.Model;
 
 namespace BASE
 {
@@ -15,6 +16,13 @@ namespace BASE
         public Edit()
         {
             InitializeComponent();
+            upload();
+        }
+
+        private void upload()
+        {
+            var allUsers = Repository.Instancia.GetAllDB();
+            userList.ItemsSource = allUsers;
         }
     }
 }
