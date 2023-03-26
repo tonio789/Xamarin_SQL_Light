@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using BASE.Model;
-using System.Collections;
 
 namespace BASE
 {
@@ -17,27 +16,50 @@ namespace BASE
         public Edit()
         {
             InitializeComponent();
-            upload();
+            update();
         }
 
-        private void upload()
+        private void update()
         {
             var allUsers = Repository.Instancia.GetAllDB();
-            userList.ItemsSource = allUsers;
+            dbList.ItemsSource = allUsers;
         }
 
-        private void selecitonIsNull()
+        private bool selectionIsValid()
         {
-            if(db = )
+            if(dbList.SelectedItem != null)
+            { 
+                return true;
+            }
+            else { 
+                DisplayAlert("Error", "Primero selecciona una opcion", "Ok"); 
+                return false;
+            }
         }
 
         private void BtnEdit_Clicked(object sender, EventArgs e)
         {
+            if (selectionIsValid())
+            {
+                var selectedItem = dbList.SelectedItem as db;
+                ((NavigationPage)this.Parent).PushAsync(new EditAgenda(selectedItem.Id, selectedItem.Description, selectedItem.Importancia));
+            }
 
 
         }
         private void BtnDelete_Clicked(object sender, EventArgs e)
         {
+            
+
+            if (selectionIsValid())
+            {
+                var selectedItem = dbList.SelectedItem as db;
+                int id = selectedItem.Id;
+                Repository.Instancia.DeleteDB(id);
+            }
+            update();
+
+
         }
     }
 }

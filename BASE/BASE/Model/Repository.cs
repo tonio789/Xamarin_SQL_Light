@@ -47,7 +47,7 @@ namespace BASE.Model
             catch (Exception e) {EstadoMensaje = e.Message;}
             return Enumerable.Empty<db>();
         }
-        public int DeleteUser(int id)
+        public int DeleteDB(int id)
         {
             int result = 0;
             try
@@ -58,7 +58,7 @@ namespace BASE.Model
             catch (Exception e){ EstadoMensaje = e.Message; }
             return result;
         }
-        public int UpdateUser(int id, string description, int importancia)
+        public int UpdateDB(int id, string description, int importancia)
         {
             int result = 0;
             try
