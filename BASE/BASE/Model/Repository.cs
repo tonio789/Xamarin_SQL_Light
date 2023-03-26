@@ -15,7 +15,11 @@ namespace BASE.Model
 
         public static Repository Instancia
         {
-            get {if (instancia == null) throw new Exception("Debe llamar al inicializador, acción detenida"); return instancia;}
+            get {
+                if (instancia == null) 
+                    throw new Exception("Debe llamar al inicializador, acción detenida");
+                return instancia;
+            }
         }
         
         public static void Inicializador(String filename)
@@ -63,7 +67,8 @@ namespace BASE.Model
             int result = 0;
             try
             {
-                result = con.Execute("UPDATE db SET Description = ? Importancia = ? Where Id = ? ", description, importancia.ToString(), id);
+                result = con.Execute("UPDATE Agenda SET Description = ? Where Id = ? ", description, id);
+                result = con.Execute("UPDATE Agenda SET Importancia = ? Where Id = ? ", importancia, id);
                 EstadoMensaje = string.Format("Actualizado!");
             }
             catch (Exception e)

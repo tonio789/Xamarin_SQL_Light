@@ -45,3 +45,4 @@ C:\Users\Antonio Alvarez\OneDrive\Documentos\GitHub\Xamarin_SQL_Light\BASE\BASE\
 C:\Users\Antonio Alvarez\OneDrive\Documentos\GitHub\Xamarin_SQL_Light\BASE\BASE\obj\Debug\netstandard2.0\refint\BASE.dll
 C:\Users\Antonio Alvarez\OneDrive\Documentos\GitHub\Xamarin_SQL_Light\BASE\BASE\obj\Debug\netstandard2.0\BASE.pdb
 C:\Users\Antonio Alvarez\OneDrive\Documentos\GitHub\Xamarin_SQL_Light\BASE\BASE\obj\Debug\netstandard2.0\ref\BASE.dll
+C:\Users\Antonio Alvarez\OneDrive\Documentos\GitHub\Xamarin_SQL_Light\BASE\BASE\obj\Debug\netstandard2.0\EditAgenda.xaml.g.cs
