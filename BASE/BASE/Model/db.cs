@@ -10,6 +10,6 @@ namespace BASE.Model
     {
         [PrimaryKey, AutoIncrement] public int Id { get; set; }
         [MaxLength(100)] public String Description { get; set; }
-        [MaxLength(1)] public int Importancia { get; set; }
+        [MaxLength(100)] public int Importancia { get; set; }
     }
 }

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using BASE.Model;
+using System.Collections;
 
 namespace BASE
 {
@@ -23,6 +24,20 @@ namespace BASE
         {
             var allUsers = Repository.Instancia.GetAllDB();
             userList.ItemsSource = allUsers;
+        }
+
+        private void selecitonIsNull()
+        {
+            if(db = )
+        }
+
+        private void BtnEdit_Clicked(object sender, EventArgs e)
+        {
+
+
+        }
+        private void BtnDelete_Clicked(object sender, EventArgs e)
+        {
         }
     }
 }
