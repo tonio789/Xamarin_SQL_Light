@@ -13,36 +13,24 @@ namespace BASE
 {
     public partial class EditAgenda : ContentPage
     {
-        public EditAgenda()
+        int id;
+        public EditAgenda(int id, string descripcion, int importancia)
         {
             InitializeComponent();
+            this.id = id;
+            entry_description.Text = descripcion;
+            Dropdown.SelectedIndex = importancia;
         }
 
-
-        private void displayAlert()
-        {
-            DisplayAlert("Estado", Repository.Instancia.EstadoMensaje, "OK");
-        }
-        private void clean()
-        {
-            entry_description.Text = "";
-            Dropdown.SelectedIndex = -1;
-        }
 
         private void BtnSave_Clicked(object sender, EventArgs e)
         {
             string descripcion = entry_description.Text;
             int importancia = Dropdown.SelectedIndex;
-            Repository.Instancia.AddNewDB(descripcion, importancia);
-            clean();
-        }
-        private void BtnEdit_Clicked(object sender, EventArgs e)
-        {
+
+            Repository.Instancia.UpdateDB(this.id, descripcion, importancia);
             ((NavigationPage)this.Parent).PushAsync(new Edit());
-        }
-        private void BtnClean_Clicked(object sender, EventArgs e)
-        {
-            clean();
+
         }
     }
 }
